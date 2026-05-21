@@ -15,7 +15,7 @@ Key Features
 
  
 
-2. Place both files in your .minecraft/mods folder.
+2. Place the .jar file in .minecraft/mods folder.
 
  
 
